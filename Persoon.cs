@@ -1,7 +1,7 @@
 using System;
 
 class Persoon
-{
+    
     private string naam;
     private int leeftijd;
     private char geslacht;
